@@ -151,7 +151,7 @@ customer-shopping-behavior/
 
 ## 📈 Dashboard Preview
 
-> 📸 *Add Power BI dashboard screenshots here*
+<img width="1380" height="737" alt="Screenshot 2025-11-07 163614" src="https://github.com/user-attachments/assets/de579c47-4499-44fa-aaf3-6de88e5f058b" />
 
 **Dashboard Features:**
 - Real-time KPI tracking
@@ -261,3 +261,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **If you found this project helpful, please consider giving it a star!**
 
 *Last Updated: November 2025*
+
